@@ -1,0 +1,15 @@
+{
+    "dev": {
+      "db": "mongodb://127.0.0.1:27017/hrtest",
+      "port": "8081",
+      "url": "localhost",
+      "botToken": "1261086057:AAHAnw3891vBvLhFyBAx5YfP6TL2Hby2VSo" 
+    },
+    "prod": {
+      "db": "",
+      "port": "8081",
+      "url": "",
+      "botToken": ""
+    }
+  }
+  
